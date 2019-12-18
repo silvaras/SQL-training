@@ -1,0 +1,36 @@
+APUNTES PARA SQL
+
+DE QUÉ SE TRATA
+
+se trata de un sistema de manejo de bases de datos, desarrollado por microsoft.
+
+Sus dos principales componentes son:
+1. Database Engine
+2. SQLOS
+
+DATABASE ENGINE
+
+Consiste en un motor relacional que procesa peticiones y un motor de almacenamiento que maneja archivos de bases de datos, páginas, índex, etc.
+
+SQLOS
+
+Provee de servicios del sistema operativo como memoria, gestión de I/O, sincronización, etc.
+
+SERVICIOS Y HERRAMIENTAS DE SERVIDOR SQL
+
+Para el manejo de datos, SQL incluye SQL Server Integration Services (SSIS), SQL Server Data Quality Services, y SQL Server Master Data Services. Para desarrollar
+bases de datos, SQL provee SQL Server Data Tools. Para gestionar, desplegar y monitorizar bases de datos SQL Server tiene SQL Server Management Studio (SSMS).
+
+Para el análisis de datos, se dispone de SQL Server Analysis Services (SSAS). SQL Reporting Services (SSRS) provee de de informes y visualización de datos.
+
+SQL SERVER EDITIONS
+
+SQL Server tiene 4 ediciones primarias que incluyen diferentes servicios y herramientas. Dos ediciones son gratuitas:
+
+SQL Server Depelover Edition para el uso en desarrollo y testeo de bases de datos.
+
+SQL Server Expression para pequeñas bases de datos de no más de 10GB de peso.
+
+Para casos más grandes y aplicaciones más críticas, SQL Server tiene el pack Enterprise edition que incluye todas las características de SQL Server.
+
+SQL Server Standard Edition tiene características parciales de la Enterprise edition y varias limitaciones.
